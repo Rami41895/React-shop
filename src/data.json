@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "_id": "1",
+      "name": "slim shirt",
+      "category": "shirts",
+      "image": "/images/p1.jpg",
+      "price": 60,
+      "brand": "nike",
+      "availableSizes": ["ALL", "XL", "XXL"],
+      "rating": 4.5
+    },
+    {
+      "_id": "2",
+      "name": "fit shirt",
+      "category": "shirts",
+      "image": "/images/p1.jpg",
+      "price": 80,
+      "brand": "nike",
+      "availableSizes": ["ALL", "XL", "L"],
+      "rating": 4.0
+    },
+    {
+      "_id": "3",
+      "name": "best pants",
+      "category": "pants",
+      "image": "/images/p1.jpg",
+      "price": 70,
+      "brand": "nike",
+      "availableSizes": ["ALL", "XL", "M"],
+      "rating": 4.1
+    },
+    {
+      "_id": "4",
+      "name": "shirt",
+      "category": "pants",
+      "image": "/images/p1.jpg",
+      "price": 30,
+      "brand": "nike",
+      "availableSizes": ["ALL", "XS"],
+      "rating": 3.9
+    },
+    {
+      "_id": "5",
+      "name": "pants",
+      "category": "pants",
+      "image": "/images/p1.jpg",
+      "price": 70,
+      "brand": "nike",
+      "availableSizes": ["ALL", "S", "XL"],
+      "rating": 4.1
+    },
+    {
+      "_id": "6",
+      "name": "best pants",
+      "category": "pants",
+      "image": "/images/p1.jpg",
+      "price": 50,
+      "brand": "nike",
+      "availableSizes": ["ALL", "XL", "XXL"],
+      "rating": 4.0
+    },
+    {
+      "_id": "7",
+      "name": "pants",
+      "category": "pants",
+      "image": "/images/p1.jpg",
+      "price": 70,
+      "brand": "nike",
+      "availableSizes": ["ALL", "S", "XL"],
+      "rating": 4.1
+    },
+    {
+      "_id": "8",
+      "name": "pants",
+      "category": "pants",
+      "image": "/images/p1.jpg",
+      "price": 45,
+      "brand": "nike",
+      "availableSizes": ["ALL", "S", "XXL"],
+      "rating": 4.1
+    },
+    {
+      "_id": "9",
+      "name": "pants",
+      "category": "pants",
+      "image": "/images/p1.jpg",
+      "price": 55,
+      "brand": "nike",
+      "availableSizes": ["ALL", "M", "XL"],
+      "rating": 4.1
+    },
+    {
+      "_id": "10",
+      "name": "pants",
+      "category": "pants",
+      "image": "/images/p1.jpg",
+      "price": 50,
+      "brand": "nike",
+      "availableSizes": ["ALL", "XS", "XL"],
+      "rating": 4.1
+    }
+  ]
+}
